@@ -10,6 +10,7 @@ export default function Home({navigation}) {
 
     <View style={{alignItems:'center', justifyContent:'center'}}>
       <Image source={require('../assets/wlogo.png')} style={{width:90, height:90, marginTop:150}}></Image>
+      <Text style={{fontSize:18, color:'black', marginTop:12}}>T E N K I</Text>
       <Text style={styles.textstyle}>//  I t ' s    a l l    a b o u t  -   W E A T H E R  //</Text>
     </View>
 
